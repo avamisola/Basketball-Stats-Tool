@@ -1,5 +1,4 @@
-# python_techdegree_project_2
- Basketball Stats Tool
+# Basketball Stats Tool
 
 To start, run python app.py
 
